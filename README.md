@@ -1,10 +1,10 @@
 shaarli-raspidev
 ================
 
-Shaarli modified by Raspidev.
+Shaarli modified by Raspidev.  
 The personal, minimalist, super-fast, no-database delicious clone by sebsauvage
 
-You want to share the links you discover ? Shaarli is a minimalist delicious clone you can install on your own website.
+You want to share the links you discover ? Shaarli is a minimalist delicious clone you can install on your own website.  
 It is designed to be personal (single-user), fast and handy.
 
 My project on bitbucket :
